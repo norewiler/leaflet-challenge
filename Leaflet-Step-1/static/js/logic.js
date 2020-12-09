@@ -28,7 +28,7 @@ function getColor(val) {
 
 // Create a map object
 var myMap = L.map("map", {
-    center: [37.09, -95.71],
+    center: [29.7174, -95.4018],
     zoom: 4
 });
 
